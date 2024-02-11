@@ -1,7 +1,7 @@
 # UnityProjectBase_GameJam
 A base version of unity base set up for a URP game jam.
 
-Unity Version: 22.3.4f1
+Unity Version: 2021.3.8f1
 
 # Packages
 1. Unity URP
@@ -16,4 +16,5 @@ Unity Version: 22.3.4f1
 4. Scene Management
 5. Options Menu
 6. Pause Menu
-7. Audio Manager
+7. Audio Management
+8. Video Playing in WebGL
